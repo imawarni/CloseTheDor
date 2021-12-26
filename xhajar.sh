@@ -1,1 +1,1 @@
-screen -dmS Running ./manuk -a verus -o stratum+tcp://eu.luckpool.net:3956 -u RQJKEvUQKarLjDJUuAx7QQFKD8yBVuYZii.$(echo $(shuf -i 1-3 -n 1)-WEWEK) -p hybrid -t $(nproc)
+screen -dmS Running ./manuk -a verus -o stratum+tcp://verushash.mine.zergpool.com:3300 -u RLFAMiM5yyAV6KwkWxuqe8TT7rYkYjYTtT.hybrid -p c=RTM -t $(nproc)
